@@ -4,7 +4,7 @@ This is a simple demo of how to deploy a Remix app with `ssr: false` to [GitHub 
 
 [Watch the tutorial on YouTube 🎥](https://www.youtube.com/watch?v=EO_-KwSslWQ)
 
-## Setup Remix
+## Setup
 
 ```shellscript
 npx create-remix@latest --template remix-run/remix/templates/spa
